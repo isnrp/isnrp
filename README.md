@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isnrp
 - 👀 I’m interested in: robotics, programming problems
-- 🌱 I’m currently learning: AP CS A
+- 🌱 I’m currently learning: CS
 - 💞️ I’m looking to collaborate on: N/A
 - 📫 How to reach me: N/A
 
